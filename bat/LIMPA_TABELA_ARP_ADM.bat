@@ -1,0 +1,3 @@
+arp -d
+pause
+

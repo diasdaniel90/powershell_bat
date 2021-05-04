@@ -1,0 +1,3 @@
+ipconfig /flushdns
+pause
+

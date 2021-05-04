@@ -1,0 +1,3 @@
+slmgr.vbs /ato
+pause
+

@@ -1,0 +1,3 @@
+MSINFO32
+pause
+
